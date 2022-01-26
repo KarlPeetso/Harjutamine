@@ -1,2 +1,3 @@
 GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks. Githubi kasutavad peamiselt IT-professionaalid, tarkvara arendajad ja ettevõtted.
 Mina saan kasutada GitHubi tarkvara effektiivsemaks arendamiseks.
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris. 4. juunil 2018 teatas Microsoft soovist osta GitHub 7,5 miljardi dollari eest, ning tehing sooritati 26. oktoobril 2018.
